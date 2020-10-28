@@ -106,3 +106,18 @@ Once you are hooked up to the Aylien API, you are most of the way there! Along w
 ## Deploying
 
 A great step to take with your finished project would be to deploy it! Unfortunately its a bit out of scope for me to explain too much about how to do that here, but checkout [Netlify](https://www.netlify.com/) or [Heroku](https://www.heroku.com/) for some really intuitive free hosting options.
+
+
+// // "@babel/core": "^7.5.4",
+// "@babel/preset-env": "^7.5.4",
+// "babel-loader": "^8.0.6",
+// "clean-webpack-plugin": "^3.0.0",
+// "css-loader": "^5.0.0",
+// "html-webpack-plugin": "^3.2.0",
+// "mini-css-extract-plugin": "^1.2.1",
+// "node-sass": "^4.14.1",
+// "optimize-css-assets-webpack-plugin": "^5.0.4",
+// "sass-loader": "^10.0.4",
+// "style-loader": "^2.0.0",
+// "terser-webpack-plugin": "^5.0.2",
+// "webpack-dev-server": "^3.11.0"
